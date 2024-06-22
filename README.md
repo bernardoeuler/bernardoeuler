@@ -4,7 +4,7 @@ Eu sou Desenvolvedor Web Front-end e sigo estudando para poder trabalhar em outr
 ### Minhas habilidades
 - Criar aplicativos para celulares Android 📱
 - Criar páginas estáticas e dinâmicas 💻
-- Integração com banco de dados 📁
+- Integrar com banco de dados 📁
 - Integrar sistemas via API 🌐
 
 ### Tecnologias que tenho experiência
