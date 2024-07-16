@@ -29,6 +29,6 @@ Eu sou Desenvolvedor Web Front-end e sigo estudando para poder trabalhar em outr
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Agora que já me conhece, que tal nos conectarmos?
-- bernardoeulersantos@gmail.com
-- <a href="https://www.linkedin.com/in/bernardoeuler/">LinkedIn</a>
-- <a href="https://discordapp.com/users/367741578808393729">Discord</a>
+- <bernardoeulersantos@gmail.com>
+- [LinkedIn](https://www.linkedin.com/in/bernardoeuler/)
+- [Discord](https://discordapp.com/users/367741578808393729)
