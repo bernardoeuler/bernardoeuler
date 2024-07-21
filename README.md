@@ -18,6 +18,7 @@ Eu sou Desenvolvedor Web Front-end e sigo estudando para poder trabalhar em outr
 #### Back-end:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Outros:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -26,7 +27,6 @@ Eu sou Desenvolvedor Web Front-end e sigo estudando para poder trabalhar em outr
 ### Tecnologias que estou aprendendo
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Agora que já me conhece, que tal nos conectarmos?
 - <bernardoeulersantos@gmail.com>
