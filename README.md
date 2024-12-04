@@ -28,7 +28,7 @@ Eu sou Desenvolvedor Web Front-end e sigo estudando para poder trabalhar em outr
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### Agora que já me conhece, que tal nos conectarmos?
+### Contatos
 - <bernardoeulersantos@gmail.com>
 - [LinkedIn](https://www.linkedin.com/in/bernardoeuler/)
 - [Discord](https://discordapp.com/users/367741578808393729)
