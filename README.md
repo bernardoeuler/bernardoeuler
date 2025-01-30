@@ -4,7 +4,7 @@ Eu sou Desenvolvedor Web Full-stack e sigo estudando para poder trabalhar cada v
 ### Minhas habilidades
 - Criar aplicativos para celulares Android com React Native 📱
 - Criar websites estáticos e dinâmicos 💻
-- Integrar com banco de dados 📁
+- Integrar sistema com banco de dados 📁
 - Desenvolver APIs REST com ExpressJS 🌐
 
 ### Tecnologias que tenho experiência
