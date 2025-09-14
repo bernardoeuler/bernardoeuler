@@ -2,10 +2,9 @@
 Eu sou Desenvolvedor Web Full-stack e sigo estudando para me tornar cada vez melhor. Sou natural da cidade de Salvador, Bahia e atualmente estudo **Engenharia de Software** na UFC de Russas, no Ceará.
 
 ### Minhas habilidades
-- Criar aplicativos para celulares Android com React Native 📱
+- Criar aplicativos para celulares Android 📱
 - Criar websites estáticos e dinâmicos 💻
-- Integrar sistemas com banco de dados 📁
-- Desenvolver APIs REST com ExpressJS 🌐
+- Desenvolver APIs REST 🌐
 
 ### Tecnologias que tenho experiência
 #### Front-end:
