@@ -17,7 +17,7 @@ Nos últimos anos, tenho me dedicado principalmente a tecnologias como: JavaScri
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,python,java,expressjs,fastapi,postgresql,mysql,sqlite)](https://github.com/bernardoeuler/bernardoeuler)
 
 #### Cloud
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,azure,vercel,firebase)](https://github.com/bernardoeuler/bernardoeuler)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,oracle,azure,vercel,firebase)](https://github.com/bernardoeuler/bernardoeuler)
 
 #### Outros:
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,linux,bash,figma,rabbitmq)](https://github.com/bernardoeuler/bernardoeuler)
