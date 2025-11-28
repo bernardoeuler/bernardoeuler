@@ -11,7 +11,7 @@ Nos últimos anos, tenho me dedicado principalmente a tecnologias como: JavaScri
 ### Tecnologias que tenho experiência
 
 #### Front-end:
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,tailwind)](https://github.com/bernardoeuler/bernardoeuler)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,reactnative,tailwind)](https://github.com/bernardoeuler/bernardoeuler)
 
 #### Back-end:
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,python,java,expressjs,fastapi,postgresql,mysql,sqlite)](https://github.com/bernardoeuler/bernardoeuler)
