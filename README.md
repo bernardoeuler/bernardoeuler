@@ -8,6 +8,11 @@ Tenho vivência em Scrum e metodologias ágeis, além de experiência prática e
 
 Nos últimos anos, tenho me dedicado principalmente a tecnologias como: JavaScript, TypeScript, Node.js, React, Express, Python, FastAPI, Django, Java, Spring Boot, PostgreSQL, AWS e OCI.
 
+### Certificações
+
+[<img src="https://raw.githubusercontent.com/bernardoeuler/bernardoeuler/refs/heads/main/images/certifications/OCI25FNDCFAV1.png" width="auto" height="100" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" title="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5D50DE1B72F3EFE170A1D95539447954D7DF94C16D427B57431357DFEDF6765D)
+[<img src="https://raw.githubusercontent.com/bernardoeuler/bernardoeuler/refs/heads/main/images/certifications/OCI25CAA.png" width="auto" height="100" alt="Oracle Cloud Infrastructure 2025 Certified Architect Associate" title="Oracle Cloud Infrastructure 2025 Certified Architect Associate" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6158B03F7C7DA7DDA920C3F3A3F0F92166F19B612D46C716881F93F392D10C2B)
+
 ### Tecnologias que tenho experiência
 
 #### Front-end:
